@@ -23,3 +23,6 @@
 21. Giganta
 22. Deadshot
 23. Scarecrow
+24. Darth Vader
+25. Hannibal Lecter
+26. Pennywise
